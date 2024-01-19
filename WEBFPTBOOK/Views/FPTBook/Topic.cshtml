@@ -1,0 +1,11 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.Topic>
+<p class="lead">BOOK TOPIC</p>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("ProByThem", "FPTBook",new { id = item.TopicID })"class="list-group-item">
+
+            @item.TopicName
+        </a>
+    }
+</div>

@@ -1,0 +1,27 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.Book>
+@{
+    ViewBag.Title = "SearchResult";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h3 style="text-align:center; color:red">SearchResult</h3>
+<div class="row">
+    @if(Model == null){
+    <h5 style="text-align:center; color:red">SearchResult</h5>
+    }
+    else{
+    foreach (var book in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4">
+            <div class="thumbnail">
+                <a href="@Url.Action("Details","FPTBook", new { id = book.BookID})">
+                    <img alt="@book.BookName" src="~/product_imgs/@book.BookPic" />
+                    <span>@book.BookName</span>
+                </a>
+            </div>
+        </div>
+    }
+    }
+
+
+</div>

@@ -1,0 +1,96 @@
+﻿@model WEBFPTBOOK.Models.Customer
+
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+
+<table align="center">
+    <h2>REGISTER</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <tr style="height:40px">
+            <td>
+                Fullname:
+            </td>
+            <td>
+                @Html.TextBox("FullName")
+                @ViewData["Error1"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Username:
+            </td>
+            <td>
+                @Html.TextBox("UserName")
+                @ViewData["Error2"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Password:
+            </td>
+            <td>
+                <input type="password" name="Password" />
+                @ViewData["Error3"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Re-Password:
+            </td>
+            <td>
+                <input type="password" name="Re-Password" />
+                @ViewData["Error4"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Email:
+            </td>
+            <td>
+                @Html.TextBox("Email")
+                @ViewData["Error5"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Phone:
+            </td>
+            <td>
+                @Html.TextBox("Phone")
+                @ViewData["Error6"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Adress:
+            </td>
+            <td>
+                @Html.TextBox("Adress")
+                @ViewData["Error7"]
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+                Birthday:
+            </td>
+            <td>
+                <input type="date" name="Dateofbirth" />
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td>
+            </td>
+            <td>
+                <input type="submit" value="Register" />
+            </td>
+        </tr>
+    }
+
+</table>
+

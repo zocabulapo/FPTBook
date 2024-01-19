@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.625" name="DatabaseFPTBook">
+  <DataContextMoniker Name="/DatabaseFPTBookDataContext" />
+  <nestedChildShapes>
+    <classShape Id="44b6bc92-8eec-45ef-8ab7-759c21aacbb5" absoluteBounds="6.75, 7.75, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ace3a62-eafa-4c7b-b800-168b69f6cf6d" absoluteBounds="6.765, 8.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a722582c-ea04-4a2e-a708-bac2c79d999b" absoluteBounds="6.5, 5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/VietSach" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88b7aafc-72d4-4971-bdf0-3ae85267de3a" absoluteBounds="6.515, 5.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32f4612d-d731-4fa7-976a-3177da9918ff" absoluteBounds="6.25, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/ChiTietDatHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3f0163a4-b8ea-41af-b021-e865a2f110b2" absoluteBounds="6.265, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2790290d-3b7a-4720-a02c-78ba2d6c1171" absoluteBounds="0.75, 1.625, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/ChuDe" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cd056ad4-0a3d-4038-8f6a-22962703fff7" absoluteBounds="0.765, 2.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="41f30ce6-a4b4-4d07-bd7a-db9fe7eaf8df" absoluteBounds="3.5, 8.25, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/DonDatHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="86124645-bd67-48a4-ba8e-38192ac8770f" absoluteBounds="3.515, 8.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f00655b-4bfd-48a0-ba17-52d13fb36072" absoluteBounds="0.75, 8, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8dc00d9c-6221-465a-b178-f4002ad66cd8" absoluteBounds="0.765, 8.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66113692-3032-4b9c-8a48-d76f2358e5ff" absoluteBounds="0.75, 5.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/NhaXuatBan" />
+      <nestedChildShapes>
+        <elementListCompartment Id="236380ff-4255-4f4a-9c88-56cd58fd2061" absoluteBounds="0.765, 5.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bba99ad7-53e9-4fac-89e7-8a9bafab218e" absoluteBounds="3.5, 1, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/Sach" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a83c3a12-19d0-4088-80e6-6133220bc37a" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f25532e4-dac3-4e2a-a438-c9edf05ce04b" absoluteBounds="3.75, 4.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DatabaseFPTBookDataContext/TacGia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bbf4036f-8659-4827-956a-ca9c5bd90ad3" absoluteBounds="3.765, 5.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 9.70599609375); (6.34375 : 9.70599609375); (6.34375 : 2.95359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DatabaseFPTBookDataContext/DonDatHang/DonDatHang_ChiTietDatHang" />
+      <nodes>
+        <classShapeMoniker Id="41f30ce6-a4b4-4d07-bd7a-db9fe7eaf8df" />
+        <classShapeMoniker Id="32f4612d-d731-4fa7-976a-3177da9918ff" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 9.23159912109375); (3.5 : 9.23159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DatabaseFPTBookDataContext/KhachHang/KhachHang_DonDatHang" />
+      <nodes>
+        <classShapeMoniker Id="7f00655b-4bfd-48a0-ba17-52d13fb36072" />
+        <classShapeMoniker Id="41f30ce6-a4b4-4d07-bd7a-db9fe7eaf8df" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.16429768880208); (6.25 : 2.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DatabaseFPTBookDataContext/Sach/Sach_ChiTietDatHang" />
+      <nodes>
+        <classShapeMoniker Id="bba99ad7-53e9-4fac-89e7-8a9bafab218e" />
+        <classShapeMoniker Id="32f4612d-d731-4fa7-976a-3177da9918ff" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.22199625651042); (3.5 : 2.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DatabaseFPTBookDataContext/ChuDe/ChuDe_Sach" />
+      <nodes>
+        <classShapeMoniker Id="2790290d-3b7a-4720-a02c-78ba2d6c1171" />
+        <classShapeMoniker Id="bba99ad7-53e9-4fac-89e7-8a9bafab218e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.83099609375); (3.59375 : 6.83099609375); (3.59375 : 3.5401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DatabaseFPTBookDataContext/NhaXuatBan/NhaXuatBan_Sach" />
+      <nodes>
+        <classShapeMoniker Id="66113692-3032-4b9c-8a48-d76f2358e5ff" />
+        <classShapeMoniker Id="bba99ad7-53e9-4fac-89e7-8a9bafab218e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 5.78929768880208); (6.26041666666667 : 5.78929768880208 : JumpStart); (6.42708333333333 : 5.78929768880208 : JumpEnd); (6.5 : 5.78929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DatabaseFPTBookDataContext/TacGia/TacGia_VietSach" />
+      <nodes>
+        <classShapeMoniker Id="f25532e4-dac3-4e2a-a438-c9edf05ce04b" />
+        <classShapeMoniker Id="a722582c-ea04-4a2e-a708-bac2c79d999b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

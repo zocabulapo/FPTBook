@@ -1,0 +1,57 @@
+﻿@using WEBFPTBOOK.Models;
+@model List<Cart>
+
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Cart</h2>
+
+<table class="table table-bordered table-striped" align="center">
+    <thead class="thead-dark">
+        <tr>
+            <th>Book ID</th>
+            <th>Book Name</th>
+            <th>Book Cover Photo</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total Price</th>
+            <th>Details</th>
+            <th>Delete</th>
+            <th>Update</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IBookID</td>
+                <td>@item.IBookName</td>
+                <td><img class="img-thumbnail" src="~/product_imgs/@item.IBookPic" alt="Book Cover" /></td>
+                <td>
+                    @using (Html.BeginForm("UpdateCart", "Cart", new { @iBookID = item.IBookID }, FormMethod.Post, new { @class = "form-inline" }))
+                    {
+                        <div class="form-group">
+                            <input class="form-control" type="number" min="1" name="txtQuantity" value="item.IQuantity" />
+                        </div>
+                        <button type="submit" class="btn btn-primary">Update</button>
+                    }
+                </td>
+                <td>@String.Format("{0:0,0}", item.IPrice)</td>
+                <td>@String.Format("{0:0,0}", item.ITotal)</td>
+                <td><a class="btn btn-info" href="@Url.Action("Details", "FPTBook", new { ID = item.IBookID })">Details</a></td>
+                <td>@Html.ActionLink("Delete", "DeleteCart", new { @iBookID = item.IBookID }, new { @class = "btn btn-danger" })</td>
+                <td></td>
+            </tr>
+        }
+
+        <tr class="table-info" style="font-weight:bold; text-align:right;">
+            <td colspan="4">Book Quantity: @ViewBag.TotalQuantity</td>
+            <td colspan="5">Total Price: @String.Format("{0:0,0}", ViewBag.TotalPrice) $</td>
+        </tr>
+        <tr class="table-danger" style="font-weight:bold; text-align:center;">
+            <td colspan="9">@Html.ActionLink("Order Now", "Order", "Cart", new { @class = "btn btn-success" })</td>
+        </tr>
+    </tbody>
+</table>

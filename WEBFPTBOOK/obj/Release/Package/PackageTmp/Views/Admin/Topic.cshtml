@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.Topic>
+
+@{
+    ViewBag.Title = "Topic";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Topic</h2>
+
+<p>
+    @Html.ActionLink("Add Topic", "AddTopic")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TopicID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TopicName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.TopicID)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.TopicName)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "EditTopic", new { id = item.TopicID }) |
+        @Html.ActionLink("Delete", "DeleteTopic", new { id = item.TopicID }, new { onclick = "return confirm('Are you sure?');" })
+    </td>
+</tr>
+}
+
+</table>

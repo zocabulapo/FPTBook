@@ -1,0 +1,42 @@
+﻿@using WEBFPTBOOK.Models;
+@model List<Cart>
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Order Information</h2>
+<table border="1" align="center">
+    <tr style="text-align:center; font-weight:bold">
+        <td>Book ID</td>
+        <td>Book Name</td>
+        <td>book cover photo</td>
+        <td>Quantity</td>
+        <td>Price</td>
+        <td>Total Price</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.IBookID</td>
+            <td> @item.IBookName </td>
+            <td><img width="100px" src="~/product_imgs/@item.IBookPic" /></td>
+            @using (Html.BeginForm("UpdateCart", "Cart", new { @iBookID = item.IBookID }))
+            {
+                <td>@item.IQuatity</td>
+                <td>@String.Format("{0:0,0}", item.IPrice)</td>
+                <td>@String.Format("{0:0,0}", item.ITotal)</td>
+            }
+        </tr>
+    }
+
+    <tr style="font-weight:bold; text-align:right; color:red">
+        <td colspan="3">Book Quantity: @ViewBag.TotalQuantity</td>
+        <td colspan="3">Total Price: @String.Format("{0:0,0}", ViewBag.TotalPrice) $</td>
+    </tr>
+    <tr>
+        <td colspan="6"> @Html.ActionLink("Back to Cart", "Cart", "Cart")</td>
+    </tr>
+</table>
+
+

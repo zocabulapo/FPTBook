@@ -1,0 +1,520 @@
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\WEBFPTBOOK.dll.config
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\WEBFPTBOOK.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\WEBFPTBOOK.pdb
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\csc.exe
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\csc.exe.config
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\csc.rsp
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\csi.exe
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\csi.exe.config
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\csi.rsp
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.AppContext.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Console.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.IO.Compression.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Net.Http.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Net.Sockets.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.ValueTuple.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\vbc.exe
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\vbc.exe.config
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\vbc.rsp
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Antlr3.Runtime.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\EntityFramework.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\EntityFramework.SqlServer.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Newtonsoft.Json.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\PagedList.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\PagedList.Mvc.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Helpers.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Mvc.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Optimization.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Razor.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.WebPages.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.WebPages.Razor.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\WebGrease.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\EntityFramework.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\EntityFramework.SqlServer.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\PagedList.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\PagedList.Mvc.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Helpers.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Mvc.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Optimization.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.Razor.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.WebPages.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\System.Web.WebPages.Razor.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Newtonsoft.Json.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Antlr3.Runtime.pdb
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CoreCompileInputs.cache
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.dll
+C:\Users\THANH HUY\Desktop\WEBFPTBOOK\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.pdb
+E:\FPTBOOKStore-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.AssemblyReference.cache
+E:\FPTBOOKStore-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CoreCompileInputs.cache
+E:\FPTBOOKStore-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.pdb
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\WEBFPTBOOK.dll.config
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\WEBFPTBOOK.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\WEBFPTBOOK.pdb
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\csc.exe
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\csc.exe.config
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\csc.rsp
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\csi.exe
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\csi.exe.config
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\csi.rsp
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.AppContext.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Collections.Immutable.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Console.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Globalization.Calendars.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.IO.Compression.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Net.Http.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Net.Sockets.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Reflection.Metadata.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.ValueTuple.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\vbc.exe
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\vbc.exe.config
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\vbc.rsp
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe.config
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Antlr3.Runtime.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\EntityFramework.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\EntityFramework.SqlServer.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Microsoft.Web.Infrastructure.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Newtonsoft.Json.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\PagedList.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\PagedList.Mvc.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Helpers.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Mvc.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Optimization.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Razor.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.WebPages.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.WebPages.Razor.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\WebGrease.dll
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\EntityFramework.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\EntityFramework.SqlServer.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\PagedList.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\PagedList.Mvc.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Helpers.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Mvc.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Optimization.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.Razor.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.WebPages.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\System.Web.WebPages.Razor.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Newtonsoft.Json.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Antlr3.Runtime.pdb
+E:\FPTBOOKStore-main\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FPTBOOKStore-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CopyComplete
+D:\Khang\fptbook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.AssemblyReference.cache
+D:\Khang\fptbook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CoreCompileInputs.cache
+D:\Khang\fptbook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.pdb
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\WEBFPTBOOK.dll.config
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\WEBFPTBOOK.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\WEBFPTBOOK.pdb
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\csc.exe
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\csc.exe.config
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\csc.rsp
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\csi.exe
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\csi.exe.config
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\csi.rsp
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.AppContext.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Collections.Immutable.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Console.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Globalization.Calendars.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.IO.Compression.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Net.Http.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Net.Sockets.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Reflection.Metadata.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.ValueTuple.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\vbc.exe
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\vbc.exe.config
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\vbc.rsp
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe.config
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Antlr3.Runtime.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\EntityFramework.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\EntityFramework.SqlServer.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Microsoft.Web.Infrastructure.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Newtonsoft.Json.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\PagedList.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\PagedList.Mvc.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Helpers.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Mvc.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Optimization.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Razor.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.WebPages.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.WebPages.Razor.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\WebGrease.dll
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\EntityFramework.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\EntityFramework.SqlServer.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\PagedList.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\PagedList.Mvc.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Helpers.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Mvc.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Optimization.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.Razor.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.WebPages.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\System.Web.WebPages.Razor.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Newtonsoft.Json.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Antlr3.Runtime.pdb
+D:\Khang\fptbook-main\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Khang\fptbook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CopyComplete
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\WEBFPTBOOK.dll.config
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\WEBFPTBOOK.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\WEBFPTBOOK.pdb
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\csc.exe
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\csc.exe.config
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\csc.rsp
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\csi.exe
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\csi.exe.config
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\csi.rsp
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.AppContext.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Console.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.IO.Compression.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Net.Http.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.ValueTuple.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\vbc.exe
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\vbc.exe.config
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\vbc.rsp
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Antlr3.Runtime.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\EntityFramework.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\EntityFramework.SqlServer.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Newtonsoft.Json.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\PagedList.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\PagedList.Mvc.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Helpers.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Mvc.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Optimization.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Razor.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.WebPages.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Razor.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\WebGrease.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\EntityFramework.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\EntityFramework.SqlServer.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\PagedList.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\PagedList.Mvc.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Helpers.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Mvc.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Optimization.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.Razor.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.WebPages.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Razor.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Newtonsoft.Json.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Antlr3.Runtime.pdb
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.AssemblyReference.cache
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CoreCompileInputs.cache
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CopyComplete
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.dll
+C:\Users\Khang\Documents\FPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.pdb
+D:\ManageFPTBook\WEBFPTBOOK\bin\WEBFPTBOOK.dll.config
+D:\ManageFPTBook\WEBFPTBOOK\bin\WEBFPTBOOK.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\WEBFPTBOOK.pdb
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\csc.exe
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\csc.exe.config
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\csc.rsp
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\csi.exe
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\csi.exe.config
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\csi.rsp
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.AppContext.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Collections.Immutable.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Console.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Globalization.Calendars.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.IO.Compression.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Net.Http.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Net.Sockets.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Reflection.Metadata.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.ValueTuple.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\vbc.exe
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\vbc.exe.config
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\vbc.rsp
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe
+D:\ManageFPTBook\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe.config
+D:\ManageFPTBook\WEBFPTBOOK\bin\Antlr3.Runtime.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\EntityFramework.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\EntityFramework.SqlServer.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\Microsoft.Web.Infrastructure.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\Newtonsoft.Json.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\PagedList.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\PagedList.Mvc.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Helpers.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Mvc.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Optimization.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Razor.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.WebPages.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Razor.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\WebGrease.dll
+D:\ManageFPTBook\WEBFPTBOOK\bin\EntityFramework.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\EntityFramework.SqlServer.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\PagedList.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\PagedList.Mvc.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Helpers.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Mvc.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Optimization.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.Razor.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.WebPages.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\System.Web.WebPages.Razor.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\Newtonsoft.Json.xml
+D:\ManageFPTBook\WEBFPTBOOK\bin\Antlr3.Runtime.pdb
+D:\ManageFPTBook\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ManageFPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.AssemblyReference.cache
+D:\ManageFPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CoreCompileInputs.cache
+D:\ManageFPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CopyComplete
+D:\ManageFPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.dll
+D:\ManageFPTBook\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.pdb
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\WEBFPTBOOK.dll.config
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\WEBFPTBOOK.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\WEBFPTBOOK.pdb
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\csc.exe
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\csc.exe.config
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\csc.rsp
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\csi.exe
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\csi.exe.config
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\csi.rsp
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.AppContext.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Collections.Immutable.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Console.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Globalization.Calendars.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.IO.Compression.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Net.Http.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Net.Sockets.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Reflection.Metadata.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.ValueTuple.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\vbc.exe
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\vbc.exe.config
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\vbc.rsp
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\roslyn\VBCSCompiler.exe.config
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Antlr3.Runtime.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\EntityFramework.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\EntityFramework.SqlServer.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Microsoft.Web.Infrastructure.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Newtonsoft.Json.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\PagedList.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\PagedList.Mvc.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Helpers.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Mvc.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Optimization.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Razor.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.WebPages.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.WebPages.Razor.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\WebGrease.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\EntityFramework.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\EntityFramework.SqlServer.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\PagedList.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\PagedList.Mvc.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Helpers.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Mvc.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Optimization.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.Razor.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.WebPages.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.WebPages.Deployment.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\System.Web.WebPages.Razor.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Newtonsoft.Json.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Antlr3.Runtime.pdb
+D:\ManageFPTBook-main\WEBFPTBOOK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ManageFPTBook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.AssemblyReference.cache
+D:\ManageFPTBook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CoreCompileInputs.cache
+D:\ManageFPTBook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.csproj.CopyComplete
+D:\ManageFPTBook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.dll
+D:\ManageFPTBook-main\WEBFPTBOOK\obj\Debug\WEBFPTBOOK.pdb

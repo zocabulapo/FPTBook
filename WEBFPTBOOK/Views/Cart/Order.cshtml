@@ -1,0 +1,65 @@
+﻿@using WEBFPTBOOK.Models;
+@model List<Cart>
+@{
+    ViewBag.Title = "Order";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Order Information</h2>
+
+<div class="container">
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Book ID</th>
+                <th scope="col">Book Name</th>
+                <th scope="col">Book Cover Photo</th>
+                <th scope="col">Quantity</th>
+                <th scope="col">Price</th>
+                <th scope="col">Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.IBookID</td>
+                    <td>@item.IBookName</td>
+                    <td><img class="img-thumbnail" src="~/product_imgs/@item.IBookPic" alt="Book Cover" /></td>
+                    <td>@item.IQuatity</td>
+                    <td>@String.Format("{0:0,0}", item.IPrice)</td>
+                    <td>@String.Format("{0:0,0}", item.ITotal)</td>
+                </tr>
+            }
+
+            <tr class="table-info" style="font-weight:bold; text-align:right;">
+                <td colspan="3">Book Quantity: @ViewBag.TotalQuantity</td>
+                <td colspan="3">
+                    Total Price: @(ViewBag.TotalPrice != null ? String.Format("{0:0,0}", ViewBag.TotalPrice) + " $" : "N/A")
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6">
+                    @Html.ActionLink("Back to Cart", "Cart", "Cart", new { @class = "btn btn-secondary" })
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    @using (Html.BeginForm("Order", "Cart", FormMethod.Post))
+    {
+        <div class="form-group">
+            <label for="DeliveryDate">Delivery Date:</label>
+            <input type="text" id="DeliveryDate" name="DeliveryDate" placeholder="MM/dd/yyyy" required>
+        </div>
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="ComplePay" name="ComplePay">
+            <label class="form-check-label" for="ComplePay">Complete Payment</label>
+        </div>
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" id="DeliStatus" name="DeliStatus">
+            <label class="form-check-label" for="DeliStatus">Delivery Status</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Order Now</button>
+    }
+</div>

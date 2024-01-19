@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="285b78e7ad9047278bcc9993c5727986" Name="Diagram1">
+        <EntityTypeShape EntityType="FPTBookModel.Admin" Width="1.5" PointX="2.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.Author" Width="1.5" PointX="5.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.Book" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.Customer" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.OrderDetail" Width="1.5" PointX="5.25" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.Order" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.Publisher" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.Topic" Width="1.5" PointX="0.75" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="FPTBookModel.BookWriter" Width="1.5" PointX="8" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="FPTBookModel.FK_BookWriter_Author" ManuallyRouted="false" />
+        <AssociationConnector Association="FPTBookModel.FK_Book_Publisher" ManuallyRouted="false" />
+        <AssociationConnector Association="FPTBookModel.FK_Book_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="FPTBookModel.FK_OrderDetails_Book" ManuallyRouted="false" />
+        <AssociationConnector Association="FPTBookModel.FK_Orders_Customer" ManuallyRouted="false" />
+        <AssociationConnector Association="FPTBookModel.FK_OrderDetails_Orders" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

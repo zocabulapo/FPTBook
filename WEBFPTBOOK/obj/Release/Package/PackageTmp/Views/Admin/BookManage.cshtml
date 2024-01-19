@@ -1,0 +1,75 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.Book>
+@using WEBFPTBOOK.Models;
+
+@helper Truncate(string input, int lengt)
+{
+    if (input.Length < lengt)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, lengt)<text>....</text>
+    }
+}
+@{
+    ViewBag.Title = "BookManage";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>BookManage</h2>
+
+<p>
+    @Html.ActionLink("Add Book", "AddBook")
+</p>
+<table class="table" border="1">
+    <tr>
+        <th style="width:200px">Book Name</th>
+        <th style="width:100px">Price</th>
+        <th style="width:100px">Description</th>
+        <th style="width:120px">Image</th>
+        <th style="width:120px">Update day</th>
+        <th style="width:120px">In Stock</th>
+        <th style="width:120px">Theme Name</th>
+        <th style="width:120px">Publisher Name</th>
+        <th style="width:120px"></th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Truncate(item.BookDesc, 100)
+            </td>
+            <td>
+                <img width="70" src="@Url.Content("~/product_imgs/"+ item.BookPic)" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DayUpdate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quality)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TopicID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PubID)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "EditBook", new { id = item.BookID }) |
+                @Html.ActionLink("DeleteAll", "DeleteAll", new { id = item.BookID })
+            </td>
+        </tr>
+
+    }
+
+
+</table>

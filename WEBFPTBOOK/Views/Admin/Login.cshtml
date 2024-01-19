@@ -1,0 +1,38 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Login</title>
+    <meta charset="UTF-8" />
+    <meta name="Designer" content="PremiumPixels.com">
+    <meta name="Author" content="$hekh@r d-Ziner, CSSJUNTION.com">
+    <link href="~/Content/css/structure.css" rel="stylesheet" />
+    <link href="~/Content/css/reset.css" rel="stylesheet" />
+</head>
+<body>
+    <h2 style="text-align:center; padding:100px">ADMIN PAGE</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <div class="box login">
+            <h3>@ViewBag.Notify</h3>
+            <fieldset class="boxBody">
+                <label>Username</label>
+                <input type="text" name="username" />
+                @ViewData["Error1"]
+                <label>Password</label>
+                <input type="password" name="password">
+                @ViewData["Error2"]
+            </fieldset>
+            <footer>
+                <input type="submit" class="btnLogin" value="Login" tabindex="4">
+            </footer>
+        </div>
+    }
+</body>
+</html>

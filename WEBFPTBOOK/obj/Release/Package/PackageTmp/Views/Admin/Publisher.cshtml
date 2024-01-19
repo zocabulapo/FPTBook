@@ -1,0 +1,39 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.Publisher>
+
+@{
+    ViewBag.Title = "Publisher";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Publisher</h2>
+
+<p>
+    @Html.ActionLink("Add Publisher", "AddPublisher")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PubID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PubName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PubID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PubName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditPublisher", new { id=item.PubID })
+            @Html.ActionLink("Delete", "DeletePubliser", new { id = item.PubID },new {onclick ="return confirm('Are you sure?');" })
+        </td>
+    </tr>
+}
+
+</table>

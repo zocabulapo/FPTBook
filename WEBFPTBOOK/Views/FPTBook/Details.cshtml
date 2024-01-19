@@ -1,0 +1,52 @@
+﻿<style>
+.BuyButton {
+        background-color: #4CAF50; 
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        float: right;
+    }
+.BuyButton:hover {
+        background-color: #4CAF50;
+        color: white;
+        }
+</style>
+
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2 style="text-align:center">BOOK DETAILS</h2>
+<h3>Book Name:@Model.BookName</h3>
+<div class="col-sm-4 col-lg-4 col-md-4">
+    <div>
+        <img alt="@Model.BookName" width="100%" src="~/product_imgs/@Model.BookPic" />
+    </div>
+</div>
+<div class="col-sm-4 col-lg-4 col-md-4">
+    <div>
+        <p style="color:#ff0000;font-size:25px">Descriptions:</p>
+        @Model.BookDesc
+    </div>
+    <div>
+        <p style="color:#ff0000;font-size:25px">
+            Price:
+            @Model.Price $
+        </p>
+</div>
+    <div class="BuyButton">
+        <a href="@Url.Action("AddCart","Cart", new { @iBookID = @Model.BookID, @strURL = Request.Url.ToString()})">
+        Buy Now
+        </a>
+    </div>
+</div>
+

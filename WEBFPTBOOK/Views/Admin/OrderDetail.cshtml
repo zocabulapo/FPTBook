@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.OrderDetail>
+@{
+    ViewBag.Title = "Order Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+    <h2>Order Details</h2>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Book ID</th>
+                <th>Book Name</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var orderDetail in Model)
+            {
+                <tr>
+                    <td>@orderDetail.BookID</td>
+                    <td>@orderDetail.Book.BookName</td>
+                    <td>@orderDetail.Quality</td>
+                    <td>@String.Format("{0:0,0}", orderDetail.Price)</td>
+                    <td>@String.Format("{0:0,0}", orderDetail.Quality * orderDetail.Price)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="row">
+        <div class="col-md-6 offset-md-6">
+            <h4 class="text-right">Total Price: @String.Format("{0:0,0}", Model.Sum(od => od.Quality * od.Price))</h4>
+        </div>
+    </div>
+
+    <div class="text-center">
+        @Html.ActionLink("Back to Order List", "Index", "OrderManagement", new { @class = "btn btn-secondary" })
+    </div>
+</div>

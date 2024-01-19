@@ -1,0 +1,40 @@
+﻿@model IEnumerable<WEBFPTBOOK.Models.Order>
+
+@{
+    ViewBag.Title = "Order Management";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Order Management</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Order ID</th>
+            <th scope="col">Customer ID</th>
+            <th scope="col">Order Date</th>
+            <th scope="col">Delivery Date</th>
+            <th scope="col">Delivery Status</th>
+            <th scope="col">Payment Status</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>@order.CustomerID</td>
+                <td>@order.OrderDate.ToString()</td>
+                <td>@(order.DeliDate != null ? order.DeliDate.Value.ToString("MM/dd/yyyy") : "")</td>
+                <td>@(order.DeliStatus.HasValue && order.DeliStatus.Value ? "Delivered" : "Pending")</td>
+                <td>@(order.ComplePay.HasValue && order.ComplePay.Value ? "Completed" : "Pending")</td>
+                <td>
+                    @Html.ActionLink("Details", "OrderDetail", new { orderId = order.OrderID }) |
+                    @Html.ActionLink("Delete", "DeleteOrder", new { id = order.OrderID })
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
